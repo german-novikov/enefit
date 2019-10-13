@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import CONST from '../Const'
-import Moment from 'moment'
+import Moment from 'react-moment'
 
 class TableComponent extends Component {
 
