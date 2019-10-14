@@ -23,7 +23,7 @@ npm start
 
 Open link in browser to see Swagger UI:
 ```
-localhost:8080
+localhost:8082
 ```
 
 Open link in browser to see frontend part:
